@@ -1,5 +1,5 @@
 # practicum_projects
-This repository contains projects that I completed during my training at the Data Science Bootcamp program at Yandex.
+This repository contains projects completed during my training at the Data Science Bootcamp program at Yandex.
 
 The works are numbered in chronological order.
 
