@@ -1,16 +1,18 @@
-# Музыка больших городов
+# Big cities music
 
-**Проект №1.**
-Учебные цели: научиться
-- использовать основные объекты Python;
-- работать с разными структурами данных: списками, вложенными списками и словарями;
-- упрощать и сокращать код с помощью функций;
-- использовать инструменты библиотеки Pandas;
-- анализировать данные поэтапно — от постановки задачи до оформления результатов в Jupyter Notebook.
+## Data
 
-**Описание проекта**. 
-На реальных данных Яндекс Музыки проведено сравнение поведений пользователей двух столиц - Москвы и Санкт-Петербурга.  
-Основной целью исследования была проверка следующих гипотез:
-1. Активность пользователей зависит от дня недели. Причём в Москве и Петербурге это проявляется по-разному.
-2. Утром в понедельник в Москве преобладают одни жанры музыки, а в Петербурге — другие. Это верно и для вечера пятницы.
-3. Москва и Петербург предпочитают разные жанры музыки. В Москве чаще слушают поп-музыку, в Петербурге — русский рэп.
+The following data on listening to tracks in the Yandex.Music service was available:
+- Name of the track
+- Artist
+- Genre
+- City
+- Listening day
+- Listening time
+
+## Task
+
+Compare the musical preferences of Yandex.Music users living in Moscow and St. Petersburg. Compare listening on Monday, Wednesday and Friday by city, as well as compare the genres that users listen to on Monday morning and Friday evening in Moscow and St. Petersburg.
+
+## Libraries used
+*pandas*
