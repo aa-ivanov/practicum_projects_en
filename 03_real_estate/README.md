@@ -25,7 +25,7 @@ At the disposal were data from the Yandex.Realty service - an archive of ads for
 - How many days the ad was posted (from publication to deal)
 - The number of photos of the apartment in the ad
 
-## A task
+## Task
 
 Establish the impact of various parameters on the market value of real estate.
 
