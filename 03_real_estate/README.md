@@ -30,5 +30,5 @@ At the disposal were data from the Yandex.Realty service - an archive of ads for
 Establish the impact of various parameters on the market value of real estate.
 
 ## Libraries used
-*pandas*
+*pandas* \
 *matplotlib*
