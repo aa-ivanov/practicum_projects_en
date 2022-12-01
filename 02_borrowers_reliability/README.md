@@ -14,7 +14,7 @@ There were statistics on the solvency of customers provided by the credit depart
 - Monthly income
 - Purpose of the loan
 
-## A task
+## Task
 
 Find out if the marital status and the number of children of the client affect the fact of repaying the loan on time.
 
