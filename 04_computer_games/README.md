@@ -1,4 +1,4 @@
-# Computer games sales success
+# Computer games success
 
 ## Data
 
