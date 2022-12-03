@@ -19,4 +19,4 @@ There were statistics on the solvency of customers provided by the credit depart
 Find out if the marital status and the number of children of the client affect the fact of repaying the loan on time.
 
 ## Libraries used
-*pandas*
+*Pandas*
