@@ -21,8 +21,8 @@ At the disposal were historical data on game sales, user and expert ratings, gen
 Identify the patterns that determine the success of the game in order to bet on a potentially popular product and plan advertising campaigns for an online computer game store operating around the world.
 
 ## Libraries used
-*pandas* \
-*scipy* \
-*statsmodels* \
-*matplotlib* \
-*seaborn*
+*Pandas* \
+*SciPy* \
+*StatsModels* \
+*MatPlotLib* \
+*Seaborn*
